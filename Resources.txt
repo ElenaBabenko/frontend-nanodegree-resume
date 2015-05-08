@@ -1,0 +1,24 @@
+---------------------------------
+Resources I used for this project
+---------------------------------
+
+Code reference:
+https://developer.mozilla.org/
+https://developers.google.com/maps/documentation/javascript/infowindows
+
+jQuery cheetsheet
+http://oscarotero.com/jquery/
+
+Color scheme
+https://color.adobe.com/
+
+Fake text
+http://lipsum.com
+
+Firebug extension for Firefox
+
+Sublime text for coding
+
+
+
+I am not new to JS, read a few books prior to the course and took JS classes from Code School
